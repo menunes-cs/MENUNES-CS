@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Open-source projects involving process automation, programming logic, or bridging the gap between technology, administration, and logistics.
 - 🤔 I’m looking for help with Advanced algorithm optimization and industry-standard practices for managing large-scale academic codebases.
 - 💬 Ask me about Career pivot to tech: leveraging my experience in logistics and admin to write more organized code, and sharing my journey through my first semester of college.
-- 📫 How to reach me You can find me on LinkedIn www.linkedin/in/maria-saqueto or follow my updates here on GitHub.
+- 📫 How to reach me You can find me on LinkedIn www.linkedin.com/in/maria-saqueto or follow my updates here on GitHub.
 - 😄 Pronouns: She / Her.
 - ⚡ Fun fact: I'm a huge soccer fan and a loyal Flamengo supporter. I love keeping up with movies and series, and I’m an avid reader. Above all, I love learning something new every day and exploring new horizons independently.
 
