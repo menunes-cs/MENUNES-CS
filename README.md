@@ -1,10 +1,74 @@
-## Olá 👋 Bem vindo ao meu perfil do Github.
+<div align="center">
 
-- 🔭 Atualmente estou trabalhando em: Desenvolver projetos acadêmicos complexos, como um jogo de 'Super Trunfo' e um simulador de peças de Xadrez, usando C para reforçar habilidades fundamentais de lógica e programação estruturada.
-- 🌱 Atualmente estou aprendendo: Aprofundando meus fundamentos em Ciência da Computação com foco atual em C, C++ e Python, enquanto refino meu inglês americano para contextos técnicos e conversas casuais.
-- 👯 Estou procurando colaborar em: Projetos de código aberto que envolvam automação de processos, lógica de programação ou que conectem a lacuna entre tecnologia, administração e logística.
-- 🤔 Estou procurando ajuda com: Otimização avançada de algoritmos e práticas padrão da indústria para gerenciar bases de código acadêmicas de larga escala.
-- 💬 Pergunte-me sobre: Transição de carreira para a tecnologia: aproveitando minha experiência em logística e administração para escrever códigos mais organizados, e compartilhando minha jornada pelo meu primeiro semestre de faculdade.
-- 📫 Como me encontrar: Você pode me encontrar no LinkedIn www.linkedin.com/in/maria-saqueto ou acompanhar minhas atualizações aqui no GitHub.
-- 😄 Pronomes: Ela / Dela.
-- ⚡ Curiosidade: Sou uma grande fã de futebol e uma torcedora leal do Flamengo. Amo acompanhar filmes e séries, e sou uma leitora assídua. Acima de tudo, amo aprender algo novo todos os dias e explorar novos horizontes de forma independente.
+<img src="./assets/avatar.gif" width="160" alt="Maria Nunes" />
+
+<br>
+
+# Maria Nunes
+
+**Estudante de Ciência da Computação · Ex-logística migrando pra tech**
+
+🟢 Aberta a oportunidades de estágio &nbsp;·&nbsp; 📍 Brasil &nbsp;·&nbsp; [LinkedIn](http://www.linkedin.com/in/maria-saqueto)
+
+</div>
+
+<br>
+
+## Sobre mim
+
+Estou em constante aprendizado, com foco direto na área de programação — hoje minha jornada passa principalmente por **JavaScript**, **Python** e **C**. Gosto de aprender fazendo: transformo teoria em projetos práticos, como jogos e simuladores, pra fixar a lógica de verdade.
+
+Venho de uma trajetória em logística e administração, e trago isso comigo — organização, calma pra resolver problema por problema, um passo de cada vez.
+
+<br>
+
+## Stack
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br>
+
+## Projetos
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**[♟️ Jogo_Xadrez.C](https://github.com/menunes-cs/Jogo_Xadrez.C)**
+
+Simulador de movimentação de peças de xadrez, com validação de regras e lógica condicional.
+
+</td>
+<td width="33%" valign="top">
+
+**[🃏 Super_Trunfo_C](https://github.com/menunes-cs/Super_Trunfo_C)**
+
+Jogo de cartas Super Trunfo — desafio de lógica do primeiro semestre.
+
+</td>
+<td width="33%" valign="top">
+
+**[🚢 Batalha_Naval.C](https://github.com/menunes-cs/Batalha_Naval.C)**
+
+Simulador de Batalha Naval, focado em manipulação de matrizes.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+📫 **Vamos conversar:** [LinkedIn](http://www.linkedin.com/in/maria-saqueto)
+
+</div>
