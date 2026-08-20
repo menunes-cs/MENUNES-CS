@@ -1,16 +1,6 @@
 <div align="center">
 
-<img src="./assets/avatar.gif" width="160" alt="Maria Nunes" />
-
-<br>
-
-# Maria Nunes
-
-**Estudante de Ciência da Computação · Ex-logística migrando pra tech**
-
-🟢 Aberta a oportunidades de estágio &nbsp;·&nbsp; 📍 Brasil &nbsp;·&nbsp; [LinkedIn](http://www.linkedin.com/in/maria-saqueto)
-
-</div>
+<img src="./avatar.gif" width="160" alt="Maria Nunes" />
 
 <br>
 
@@ -19,6 +9,8 @@
 Estou em constante aprendizado, com foco direto na área de programação — hoje minha jornada passa principalmente por **JavaScript**, **Python** e **C**. Gosto de aprender fazendo: transformo teoria em projetos práticos, como jogos e simuladores, pra fixar a lógica de verdade.
 
 Venho de uma trajetória em logística e administração, e trago isso comigo — organização, calma pra resolver problema por problema, um passo de cada vez.
+
+Estou no início da faculdade, então ainda tem muito chão pela frente, mas cada projeto que termino me mostra que a mudança de área faz sentido. Gosto de entender o porquê das coisas antes de sair copiando solução pronta — prefiro travar num bug por mais tempo e realmente entender o que aconteceu.
 
 <br>
 
