@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./avatar.gif" width="160" alt="Maria Nunes" />
+<img src="./avatar.gif" width="300" alt="Maria Nunes" />
 
 <br>
 
